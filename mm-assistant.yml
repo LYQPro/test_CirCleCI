@@ -1,0 +1,5 @@
+plugins:
+  LYQPro/test_CirCleCI:
+    plugins:
+    - assgin
+    - what
